@@ -8,3 +8,6 @@ def calculate_distance(parallax_arcsec):
 # Test with Proxima Centauri
 distance = calculate_distance(0.768)
 print(f"Distance to Proxima Centauri: {distance:.2f} parsecs")
+
+
+string_a = "blah blah"
